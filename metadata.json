@@ -1,0 +1,8 @@
+{
+  "name": "Copy of International Port Data Hub (Cyberpunk Edition)",
+  "description": "A high-performance future-tech logistics dashboard for international port operations, featuring real-time data visualization, 3D mapping, and AI-powered port illustration generation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
